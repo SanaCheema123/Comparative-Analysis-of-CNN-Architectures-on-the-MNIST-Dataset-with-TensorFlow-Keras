@@ -1,0 +1,8 @@
+This file should include the required Python packages:
+```plaintext
+tensorflow
+keras
+matplotlib
+numpy
+pandas
+jupyter
